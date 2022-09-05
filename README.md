@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dorcaz
-- 👀 I’m interested in FullStack development, Game development and Cloud Computing
+- 👀 I’m interested in Web development, Game development and Cloud Computing
 - 🌱 I’m currently learning React, Unity and Azure
 - 💞️ I’m looking to collaborate on Web and Games project
 - 📫 How to reach me kemiadebena@gmail.com, https://www.linkedin.com/in/oluwakemi-dorcas-osatohanmwen/,
